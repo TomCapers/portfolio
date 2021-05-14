@@ -71,3 +71,16 @@ li {
     background-color: #10a2eb;
     color: #ffffff;
 }
+
+@media screen and (max-width: 992px){
+    .project-style{
+    width: 50%;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .project-style{
+    width: 100%;
+
+    }
+}
