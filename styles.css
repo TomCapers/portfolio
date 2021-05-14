@@ -44,6 +44,7 @@ li {
         background-color: dimgrey;
         display: flex;
         flex-wrap: wrap;
+        color: #ffffff;
 }
 
 .project1 {
@@ -62,4 +63,11 @@ li {
         margin: 10px;
         text-align: center;
         
-}            
+}
+
+#contact-me {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #10a2eb;
+    color: #ffffff;
+}
